@@ -3,7 +3,7 @@
 # **Household Power Consumption Clustering**
 
 ### **Description**
-This project explores and analyzes household power consumption data using clustering techniques. It applies various machine learning algorithms, including K-Means, DBSCAN, and Gaussian Mixtures, to uncover meaningful patterns and insights. The project also includes comprehensive Exploratory Data Analysis (EDA) to understand data distribution, trends, and correlations.
+This project explores and analyzes household power consumption data using clustering techniques. It applies various machine learning algorithms, including K-Means, K mini batch, and Gaussian Mixtures, to uncover meaningful patterns and insights. The project also includes comprehensive Exploratory Data Analysis (EDA) to understand data distribution, trends, and correlations.
 
 ---
 
